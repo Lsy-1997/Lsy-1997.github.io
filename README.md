@@ -1,2 +1,2 @@
 # Lsy-1997.github.io
-# this is first website
+# this is first web
